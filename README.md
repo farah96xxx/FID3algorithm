@@ -20,6 +20,8 @@ Actual source code of **WDBC.zip** in article paper: (**Breast cancer disease cl
 
 ## Code and data information
 
+- Page 11 sentence suppose to be: The mean, standard error and worst (mean of three largest values reading) are computed for each features leading the dataset to have 32 attributes, including the non-predictive attribute, ID and the class attribute.
+
 - All the given codes released are the prototypes. Updates of the codes are released here due to wrong folder submission before.
 
 - All the acquired k-fold results are averaged over ten runs for every dataset to obtain the final result as this technique ensure stable results attain.
