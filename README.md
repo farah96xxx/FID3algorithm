@@ -13,7 +13,8 @@ Actual source code of **WDBC.zip** in article paper: (**Breast cancer disease cl
 - **This code update information is for notification and studies purpose. Use this version :)**
 
 -The use of the WDBC dataset is to show the ability of the method that capable of handling continuous data. Code:
-[WDBC - Update.zip](https://github.com/farah96xxx/FID3algorithm/files/6428762/WDBC.-.Update.zip)
+[WDBC - Update.zip](https://github.com/farah96xxx/FID3algorithm/files/6430918/WDBC.-.Update.zip)
+
 
 ## Additional info about Coimbra.zip
 - The code glucose.ipynb ->'low': [10.5, 60, 130.5],\n", suppose to be 'low': [-10.5, 60, 130.5],\n",. But this **doesnt affect** any membership value because actually no data ever hit lower than the peak of most left membership function: minimum value -> 60. The boundary just acts a control. As **no** membership value affected, so it **does not affect** the transformation of data at all. Hence, this does **not affect** anything.
