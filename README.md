@@ -29,7 +29,7 @@ Actual source code of **WDBC.zip** in article paper: (**Breast cancer disease cl
 
 - All the acquired k-fold results are averaged over ten runs for every dataset to obtain the final result as this technique ensure stable results attain. Averaging runs of 10, 20, and 30 were carried out, but the method's results started to stabilize with just ten runs needed.
 
-- The results (average between 10 runs and above) may be slightly different (in decimal places) received by the users for the given codes (WDBC-Update.zip, WBCD.zip, Coimbra.zip) due to non-fixed random state value nature. The random state (concept based on Sklearn) did not specify in this experiments, and the averaging results technique applied to prevent bias in the model's result. 
+- The results (average between 10 runs and above) may be slightly different (in decimal places) received by the users for the given codes (WDBC-Update.zip and WBCD.zip) due to non-fixed random state value nature. For Coimbra dataset, the results can be vary with huge margin due to low number of instances. The random state (concept based on Sklearn) did not specify in this experiments, and the averaging results technique applied to prevent bias in the model's result. 
 
 - All the given codes released are the prototypes. All datasets gathered from UCI machine learning repository: https://archive.ics.uci.edu/ml/datasets.php
 
