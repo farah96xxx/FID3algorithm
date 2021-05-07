@@ -1,5 +1,5 @@
 # FID3 algorithm
-Update of WDBC.zip (Breast cancer disease classification using fuzzy-ID3 algorithm with FUZZYDBD method: automatic fuzzy database definition). 
+Update of WDBC.zip and Coimbra.zip (Breast cancer disease classification using fuzzy-ID3 algorithm with FUZZYDBD method: automatic fuzzy database definition). 
 
 ## Update of WDBC.zip
 Actual source code of **WDBC.zip** in article paper: (**Breast cancer disease classification using fuzzy-ID3 algorithm with FUZZYDBD method: automatic fuzzy database definition**) 
