@@ -19,6 +19,8 @@ Actual source code of **WDBC.zip** in article paper: (**Breast cancer disease cl
 ## Additional info about Coimbra.zip
 - The code glucose.ipynb ->'low': [10.5, 60, 130.5],\n", suppose to be 'low': [-10.5, 60, 130.5],\n",. But this **doesnt affect** any membership value because actually no data ever hit lower than the peak of most left membership function: minimum value -> 60. The boundary just acts a control. As **no** membership value affected, so it **does not affect** the transformation of data at all. Hence, this does **not affect** anything.
 
+- Actual coimbrafold5.data. Please replace this update .txt in your folder:[coimbrafold5.txt](https://github.com/farah96xxx/FID3algorithm/files/6443992/coimbrafold5.txt). Then replace in the code with .txt
+
 ## Code and data information
 
 - Page 11 sentence suppose to be: The mean, standard error and worst (mean of three largest values reading) are computed for each features leading the dataset to have 32 attributes, including the non-predictive attribute, ID and the class attribute.
