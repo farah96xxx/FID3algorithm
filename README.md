@@ -1,3 +1,6 @@
+***All the codes given is the most basic codes. To get the optimal results, please implement regularization and stratified kfold. You can request the author or implement yourself. Thank you***
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # FID3 algorithm
 Update of WDBC.zip and Coimbra.zip (Breast cancer disease classification using fuzzy-ID3 algorithm with FUZZYDBD method: automatic fuzzy database definition). 
 
