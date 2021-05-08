@@ -1,4 +1,4 @@
-***All the codes given is the most basic codes. To get the optimal results, please implement regularization and stratified kfold. You can request the author or implement yourself. Thank you***
+***All the codes given is the most basic codes. To get the optimal results, please implement regularization and stratified kfold. You can request the author or implement yourself.***
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # FID3 algorithm
